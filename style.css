@@ -1,0 +1,26 @@
+#input1{
+    border-radius: 20px 20px;
+    height: 40px;
+    border: 1px solid gray;
+    margin-top: 192px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+#input2{
+    border-radius: 20px 20px;
+    height: 40px;
+    border: 1px solid gray;
+    font-size: 15px;
+    margin-top: 21px;
+    padding-left: 20px;
+}
+#button{
+    border-radius: 20px 20px;
+    margin-top: 42px;
+    height: 40px;
+    font-size: 15px;
+    background-color: #4384E8;
+    width: 300px;
+    border: 0px white;
+    color: #F3E0F2;
+}
